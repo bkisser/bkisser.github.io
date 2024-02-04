@@ -11,3 +11,6 @@
 
 ## 2024/01
 [雾霾和阴冷的雨](https://bkisser.com/files/haze-rainy-weather-0116)
+
+## 2024/02
+[大雪](/files/snow-0204)
